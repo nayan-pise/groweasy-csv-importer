@@ -1,5 +1,8 @@
 # GrowEasy AI-Powered CSV Importer
 
+🔗 **Live Demo:** [https://groweasy-csv-importer.vercel.app](https://groweasy-csv-importer.vercel.app)  
+🔌 **API Backend:** [https://groweasy-csv-importer-12yx.onrender.com](https://groweasy-csv-importer-12yx.onrender.com)
+
 An intelligent CSV-to-CRM data importer that uses Google Gemini AI to extract and map lead data from **any CSV format** into the GrowEasy CRM schema.
 
 ---
